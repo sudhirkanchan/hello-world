@@ -1,2 +1,2 @@
 # hello-world
-just a simple repository
+hi sudhir kanchan mogebettu here i'm an android developer
